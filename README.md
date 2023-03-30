@@ -14,7 +14,4 @@
     <a href = "https://www.linkedin.com/in/bruno-oliveira-711637231/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://medium.com/@brunooliveirasilva">
-      <img width="25" src="medium.png">
-    </a>
 </div>
