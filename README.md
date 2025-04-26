@@ -22,9 +22,6 @@
 - **AWS Certified Cloud Practitioner** - [Ver credencial](https://www.credly.com/earner/earned/badge/097bf0ce-c810-4403-a141-7e0b04e10730)  
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80">
 
-- **Oracle Cloud Infrastructure Foundations Associate** - [Ver credencial](https://drive.google.com/file/d/1024cfiM8nDBxtiQGTM2C6bIwo2f0Mbp-/view)  
-  <img src="https://images.credly.com/size/110x110/images/8b8ed108-77d9-4005-93a3-6f3b4da18345/image.png" width="80">
-
 <h1 align="center">🌐 Redes Sociais</h1>
 
 <div align="center">
