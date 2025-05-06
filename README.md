@@ -1,4 +1,4 @@
-## Fala meus amigos do Github, Bruno Oliveira Aqui!
+## Bruno Oliveira 
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoserraoliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
