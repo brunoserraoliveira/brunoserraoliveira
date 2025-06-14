@@ -9,7 +9,7 @@
 <h1 align="center">📂 Portfólio & Currículo</h1>
 
 <div align="center">
-  <a href="http://meu-website-portfolio-bruno.s3-website-us-east-1.amazonaws.com/" target="_blank">
+  <a href="https://www.bruno-oliveira-portfolio.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
   <a href="https://curriculo-bruno-oliveira-s3-aws.s3.us-east-1.amazonaws.com/Curriculo.pdf" target="_blank">
