@@ -19,15 +19,16 @@
 
 ## 🏆 Certificações
 
+## 🏆 Certificações
+
 - **AWS Certified Solutions Architect - Associate** - [Ver credencial](https://www.credly.com/badges/7005d24f-fe32-4e87-a2f2-ab9181ebdf06/public_url)  
-  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80">
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80">
 
 - **AWS Certified Developer - Associate** - [Ver credencial](https://www.credly.com/badges/b58efc08-888e-4fd4-811b-a1487c7c4000/public_url)  
-  **<img src="https://images.credly.com/size/110x110/images/8a64284d-2cc3-48b0-8c29-8736465451ff/image.png" width="80">**
+  <img src="https://images.credly.com/size/110x110/images/8a64284d-2cc3-48b0-8c29-8736465451ff/image.png" width="80">
 
 - **AWS Certified Cloud Practitioner** - [Ver credencial](https://www.credly.com/badges/3d703b37-f107-4b8a-8b5e-af9f703f50e7/public_url)  
-  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80">
-
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80">
 <br>
 
 ## 🛠️ Tecnologias
