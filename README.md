@@ -19,13 +19,11 @@
 
 ## 🏆 Certificações
 
-## 🏆 Certificações
+- **AWS Certified Developer - Associate** - [Ver credencial](https://www.credly.com/badges/b58efc08-888e-4fd4-811b-a1487c7c4000) <img align="right" src="assets/aws-certified-developer-associate.png" width="80">
 
 - **AWS Certified Solutions Architect - Associate** - [Ver credencial](https://www.credly.com/badges/7005d24f-fe32-4e87-a2f2-ab9181ebdf06/public_url) <img align="right" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80">
 
 - **AWS Certified Cloud Practitioner** - [Ver credencial](https://www.credly.com/badges/3d703b37-f107-4b8a-8b5e-af9f703f50e7/public_url) <img align="right" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80">
-
-- **AWS Certified Developer - Associate** - [Ver credencial](https://www.credly.com/badges/b58efc08-888e-4fd4-811b-a1487c7c4000) <img align="right" src="assets/aws-certified-developer-associate.png" width="80">
 
 ---
 
@@ -45,14 +43,6 @@
 ### Sistemas Operacionais & Versionamento
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-## 🚀 Projetos em Destaque
-
-* **[Nome do Projeto 1]** - (Descrição: Projeto de IaC que provisiona um VPC e instâncias EC2 na AWS usando Terraform.)
-* **[Nome do Projeto 2]** - (Descrição: Pipeline CI/CD que automatiza a construção e o deploy de uma aplicação web.)
-* **[Nome do Projeto 3]** - (Descrição: Estudo de caso de migração de um ambiente on-premises para Azure Cloud.)
 
 <br>
 
