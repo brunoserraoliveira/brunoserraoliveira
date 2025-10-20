@@ -12,8 +12,8 @@
   <a href="https://www.bruno-oliveira-portfolio.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-  <a href="https://curriculo-bruno-oliveira-s3-aws.s3.us-east-1.amazonaws.com/Curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo PDF">
+  <a href="https://curriculo-bruno-oliveira-silva.s3.us-east-1.amazonaws.com/curriculo_bruno.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo">
   </a>
 </div>
 
