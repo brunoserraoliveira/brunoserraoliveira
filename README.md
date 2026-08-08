@@ -1,14 +1,6 @@
 # Bruno Oliveira 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoserraoliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoserraoliveira&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-<h1 align="center">📂 Portfólio & Currículo</h1>
-
-<div align="center">
   <a href="https://www.bruno-oliveira-portfolio.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
