@@ -1,12 +1,12 @@
 # Bruno Oliveira 
 
 <div align="center">
-  <a href="https://www.bruno-oliveira-portfolio.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="https://curriculo-bruno-oliveira-silva.s3.us-east-1.amazonaws.com/curriculo_bruno.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo">
-  </a>
+  <a href="https://brunoserraoliveira.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://curriculo-bruno-oliveira-silva.s3.us-east-1.amazonaws.com/curriculo_bruno.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Currículo">
+  </a>
 </div>
 
 ## 🏆 Certificações
@@ -25,9 +25,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,13 +45,13 @@
 <h1 align="center">🌐 Redes Sociais</h1>
 
 <div align="center">
-  <a href="mailto:brunoserrasilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-luiz-oliveira-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@brunooliveirasilva" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+  <a href="mailto:brunoserrasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-luiz-oliveira-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@brunooliveirasilva" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </div>
